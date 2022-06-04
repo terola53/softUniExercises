@@ -21,4 +21,3 @@ function addAndSubtract(input) {
   console.log(originalArrSum);
   console.log(newArrSum);
 }
-addAndSubtract([-5, 11, 3, 0, 2]);
