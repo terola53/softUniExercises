@@ -24,3 +24,4 @@ function solve(input) {
     }
     console.log(sum);
 }
+solve(['uuo']);

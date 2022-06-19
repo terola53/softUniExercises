@@ -4,3 +4,4 @@ function numbersFrom1To100() {
 
     }
 }
+numbersFrom1To100();
